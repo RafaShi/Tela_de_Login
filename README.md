@@ -17,7 +17,7 @@ O objetivo é criar uma interface moderna e funcional para autenticação de usu
 
 ## 🖼️ Preview do projeto
 
-<img src="./src/assets/img-prj.png" width="500"/>
+<img src="./src/assets/img-prj.png" width="100%"/>
 
 ---
 
